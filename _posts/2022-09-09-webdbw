@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "WebDB夏のワークショップ2022 (9/9～9/10)"
+excerpt: "富山県民会館で開催されたWebDB夏のワークショップ2022で発表しました。"
+date:   2022-09-09
+tag:
+- 出張報告
+- 国内研究会
+- 2022年度
+- WebDB夏のワークショップ
+- 富山県
+comments: true
+---
+
+## 開催概要
+
+| -----------: | :---------------------------------- |
+| イベント名称 | WebDB夏のワークショップ2022         |
+|         日時 | 2022年9月9日(金)-10日(土)           |
+|       開催地 | 富山県富山市                        |
+|         会場 | 富山県民会館                        |
+|          Web | [https://db-event.jpn.org/webdbw2022/](https://db-event.jpn.org/webdbw2022/) |
+{: .keyvalue}
+
+
+## 発表概要
+
+| -------: | :--------------------------------------------------------------- |
+|     著者 | 藤原 夏姫, 横山 昌平                                               |
+| 論文題名 | **ブロックチェーンを活用した画像の部分的所有権保護についての研究** |
+{: .keyvalue}
+
+【研究概要・作成中】
+
+## 報告
+
+横山研所属の 藤原夏姫が、WebDB夏のワークショップ2022 でブロックチェーン技術を用いた画像の部分的所有権に関する研究について発表し質疑討論をおこないました。
+
+<figure>
+    <img src="{{ site.url }}/assets/img/2022webdbw/presentation.jpg">
+    <figcaption>WebDB夏のワークショップ2022＠富山県民会館での発表の様子</figcaption>
+</figure>
+
+会場は富山県民会館。富山と言えばブラックラーメンが有名てず。下の左の写真はその元祖を謳う[大喜 西町本店](https://goo.gl/maps/9AFvskfFbpnHndFq7)の一杯です。かなり塩辛いのが特徴みたいです。
+富山は何といっても海の幸。写真は街中にある[写楽](https://goo.gl/maps/cgBwoKF1WW729p998)という寿司屋ですが、食べるものすべてが新鮮で美味しかったです。
+
+<figure class="half">
+    <img src="{{ site.url }}/assets/img/2022webdbw/food-1.jpg">
+    <img src="{{ site.url }}/assets/img/2022webdbw/food-2.jpg">
+    <figcaption>左)富山ブラックラーメン　／　右）富山の海の幸</figcaption>
+</figure>
