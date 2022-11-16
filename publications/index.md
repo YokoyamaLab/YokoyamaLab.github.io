@@ -39,7 +39,9 @@ comments: false
 3. 横山 昌平, 太田 学, 片山 薫, 石川 博, "ブランチ機能付き版管理に適した木構造のラベリング手法", 日本データベース学会論文誌(DBSJ Letters), Vol.2, No.1, pp.91-94, 2003.05.
 
 ## 国際会議
-1. Junya Masuda, Kazuma Hayashida, Shohei Yokoyama, “Position Estimation for Objects in the High Latitude Region of 360° Panoramic Images”, The 13th International Conference on Management of Digital EcoSystems (MEDES'21), Hammamet Tunisia (Virtual Event), 2021.11.03
+1. Osei Yamashita, Shohei Yokoyama, “Preference Aware Route Recommendation Using One Billion Geotagged Tweets”, 6th ACM SIGSPATIAL Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (LocalRec 2022), Seattle USA, 2022.11.01
+1. Natsuki Fujiwara, Shohei Yokoyama, “Ownership Protection of Specified Image Data Using Blockchain Technology”, The 14th International Conference on Management of Digital EcoSystems (MEDES'22), Venice Italy, 2022.10.20
+1. Junya Masuda, Kazuma Hayashida, Shohei Yokoyama, “Position Estimation for Objects in the High Latitude Region of 360° Panoramic Images”, The 13rd International Conference on Management of Digital EcoSystems (MEDES'21), Hammamet Tunisia (Virtual Event), 2021.11.03
 1. Hayashida, Kazuma, Junya Masuda, and Shohei Yokoyama, "Real-Time Human Detection Using Spherical Camera for Web Browser-Based Telecommunications", The 13th International Conference on Management of Digital EcoSystems (MEDES'21), Hammamet Tunisia (Virtual Event), 2021.11.1
 1. Shohei Yokoyama, "Efficient Crawling of Georeferenced Documents from Large Web Map Services", Korea-Japan (Japan-Korea) Database Workshop 2020, Yeosu World Exhibition Center(Yeosu, Korea) - Online, 2020.11.20
 1. Sou Ijima, Masaharu Hirota, Shohei Yokoyama, "A Crawling Method with No Parameters for Geo-Social Data based on Road Maps", The 21st International Conference on Information Integration and Web-based Applications & Services(iiWAS2019), Holiday Inn Munich(Munich, Germany), 2019.12.03
@@ -95,6 +97,8 @@ comments: false
 1. 横山 昌平, 太田 学, 石川 博, "要素名圧縮によるXMLデータ圧縮手法の提案－Simplified Element XML－", 情報処理学会データベースシステム研究会　データベースとWeb情報システムに関する合同シンポジウム(WebDB2000), pp.331-338, 2000
 
 ## 研究会口頭発表(査読無)
+1.  北村 尚輝, 横山 昌平, "セキュリティを考慮したスマートフォン対のペアリング手法", コンピュータセキュリティシンポジウム2022（CSS2022）, 熊本城ホーム(熊本県熊本市), 2022.10.27 
+1. 藤原 夏姫, 横山 昌平, "ブロックチェーンを活用した画像の部分的所有権保護についての研究", WebDB夏のワークショップ2022, 富山県民会館(富山県富山市), 2022.09.09
 1. 大平 翼, 横山 昌平, "ポーカーにおける手札によらない効果的なブラフタイミングの分析", 第48回ゲーム情報学研究発表会, 佐世保工業高等専門学校（長崎県佐世保市）, 2022.07.03
 1. 渋川 大樹, 横山 昌平, "Web技術に基づいた遠隔共有型ルーパーの提案",第65回 情報処理学会エンタテインメントコンピューティング研究会, オンライン参加, 2022.06.16
 1. 江口 航野（都立大）, 横山 昌平（都立大）,"ニューラルネットワークを適応した著作権の例外部分文章の抽出",2022年電子情報通信学会総合大会,オンライン参加, 2022.03.15
