@@ -25,6 +25,7 @@ comments: false
 * [東京都立大学](https://www.tmu.ac.jp/) [システムデザイン学部](https://www.sd.tmu.ac.jp/) [情報科学科](https://cs.sd.tmu.ac.jp/) **准教授**
 * [国立情報学研究所](https://www.nii.ac.jp/) **客員准教授**
 * [東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [生産技術研究所](https://www.iis.u-tokyo.ac.jp/ja/) **リサーチフェロー**
+* [クラウド技術者養成協会準備会](https://cloud-jp.jp/) **理事長**
 * [日本データベース学会](https://dbsj.org/) **理事**
 
 ## メッセージ {#Message}
