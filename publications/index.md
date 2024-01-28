@@ -7,6 +7,8 @@ comments: false
 
 
 ## 学術論文誌(フルペーパー)
+1. 山下桜生, 横山昌平, "ジオタグ付きツイートを用いた好みに応じた経路推薦手法", 情報処理学会論文誌データベース（TOD）, vol,17, No.1, pp.1-14, 2024.01
+1. Natsuki Fujiwara, Shohei Yokoyama, "Ownership protection system for partial areas on image data using Ethereum blockchain", Internatiolal Jounal of Computer Science and Information Systems, Volume 20, Issue 4, 2023.09
 1. 伊藤光太郎, 横山昌平, ”移動軌跡の交点を用いた密度クラスタリングアルゴリズム”, 情報処理学会論文誌データベース（TOD）,Vol. 14, No. 3, pp.1–15,2021.07
 1. 井嶋 蒼, 横山 昌平, "ロードマップを用いたジオソーシャルデータに対する効率的なクローリング手法", DBSJ Japanese Journal Vol.18-J, 2020.03
 1. 菅野 真生, 江原 遥, 廣田 雅春, 横山 昌平, 石川 博, "道路ネットワーク分析を用いた災害時における避難リスクの高い経路の可視化", DBSJ Journal Vol.15-J, 2017.6
@@ -39,6 +41,10 @@ comments: false
 3. 横山 昌平, 太田 学, 片山 薫, 石川 博, "ブランチ機能付き版管理に適した木構造のラベリング手法", 日本データベース学会論文誌(DBSJ Letters), Vol.2, No.1, pp.91-94, 2003.05.
 
 ## 国際会議
+1. Naoki Kitamura, Shohei Yokoyama, "Detecting Human-Human Interaction using Smartphons", 4th International Conference on Computer Communication and Information Systems (CCCIS 2024), Virtual Conference, 2024.02.27-29
+1. Ahmed Almohanadi, Shohei Yokoyama, "Emoji Trends Between Abnormal Usage and Cultural Differences: A Case Study of Emojis" The Thirteenth International Conference on Social Media Technologies, Communication, and Informatics (SOTICS2023), Valencia Spain, 2023.11.15
+1. Ahmed Almohanadi, Shohei Yokoyama, "Emotion Mapping: Sentiment Analysis using Emoji in Twitter Data from 
+Japan in the COVID-19 Era", International Symposium on Foundations and Applications of Big Data Analytics (FAB2023), Pain Bay Resort, Kusadasi, Turkey, 2023.11.07
 1. Osei Yamashita, Shohei Yokoyama, “Preference Aware Route Recommendation Using One Billion Geotagged Tweets”, 6th ACM SIGSPATIAL Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (LocalRec 2022), Seattle USA, 2022.11.01
 1. Natsuki Fujiwara, Shohei Yokoyama, “Ownership Protection of Specified Image Data Using Blockchain Technology”, The 14th International Conference on Management of Digital EcoSystems (MEDES'22), Venice Italy, 2022.10.20
 1. Junya Masuda, Kazuma Hayashida, Shohei Yokoyama, “Position Estimation for Objects in the High Latitude Region of 360° Panoramic Images”, The 13rd International Conference on Management of Digital EcoSystems (MEDES'21), Hammamet Tunisia (Virtual Event), 2021.11.03
@@ -97,6 +103,8 @@ comments: false
 1. 横山 昌平, 太田 学, 石川 博, "要素名圧縮によるXMLデータ圧縮手法の提案－Simplified Element XML－", 情報処理学会データベースシステム研究会　データベースとWeb情報システムに関する合同シンポジウム(WebDB2000), pp.331-338, 2000
 
 ## 研究会口頭発表(査読無)
+1. 金子卓矢, 横山昌平, "一日のトピック示す五七五：ソーシャルビッグデータを用いた一日の出来事を表す五七五の生成", 第22回情報科学技術フォーラム（FIT2023, 大阪公立大学（大阪府堺市）, 2023.09.08
+1. 成田省吾, 横山 昌平,"新型コロナ関連トピックと非関連トピック間のコミュニティ類似性の分析", 第22回情報科学技術フォーラム（FIT2023, 大阪公立大学（大阪府堺市）, 2023.09.06
 1. 伊藤 鋼一朗（都立大）, 横山 昌平（都立大）, 西村 優典（都立大）, "5G網を介した動画像と加速度センサによる人物認証", 第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023), 長良川国際会議場(岐阜県岐阜市), 2023.03.06
 2. 大橋 拓朗（都立大）, 横山 昌平（都立大）, "全天球パノラマ画像による部屋情報を用いないカメラ自己位置推定", 第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023), 長良川国際会議場(岐阜県岐阜市), 2023.03.05
 3. 笠原 悠樹（都立大）, 横山 昌平（都立大）, "全天球カメラを用いた人物ポジショニング推定", 第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023), 長良川国際会議場(岐阜県岐阜市), 2023.03.06
