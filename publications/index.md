@@ -41,6 +41,9 @@ comments: false
 3. 横山 昌平, 太田 学, 片山 薫, 石川 博, "ブランチ機能付き版管理に適した木構造のラベリング手法", 日本データベース学会論文誌(DBSJ Letters), Vol.2, No.1, pp.91-94, 2003.05.
 
 ## 国際会議
+1. Kento Yano, Shohei, Yokoyama, "Whose smartphone? Pairing each individual in the panoramic video with their respective smartphone", The 16th International Conference on Management of Digital EcoSystems (MEDES'24), NAPLE Italy, 2024.11.20
+1. Hiroki Oda, Shohei Yokoyama, "Person Identification and Position Estimation with Multiple Moving Spherical Cameras", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
+1. Takuro Ohashi, Shohei, Yokoyama, "Efficient moving object detection from Ultra-High Resolution omnidirectional video", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
 1. Naoki Kitamura, Shohei Yokoyama, "Detecting Human-Human Interaction using Smartphons", 4th International Conference on Computer Communication and Information Systems (CCCIS 2024), Virtual Conference, 2024.02.27-29
 1. Ahmed Almohanadi, Shohei Yokoyama, "Emoji Trends Between Abnormal Usage and Cultural Differences: A Case Study of Emojis" The Thirteenth International Conference on Social Media Technologies, Communication, and Informatics (SOTICS2023), Valencia Spain, 2023.11.15
 1. Ahmed Almohanadi, Shohei Yokoyama, "Emotion Mapping: Sentiment Analysis using Emoji in Twitter Data from 
@@ -103,6 +106,11 @@ Japan in the COVID-19 Era", International Symposium on Foundations and Applicati
 1. 横山 昌平, 太田 学, 石川 博, "要素名圧縮によるXMLデータ圧縮手法の提案－Simplified Element XML－", 情報処理学会データベースシステム研究会　データベースとWeb情報システムに関する合同シンポジウム(WebDB2000), pp.331-338, 2000
 
 ## 研究会口頭発表(査読無)
+1. 井桁 広翔, 横山 昌平, "全天球カメラ映像における物体認識を用いた主題追従切り出し手法", 第17回データ工学と情報マネジメントに関するフォーラム(DEIM2025), 福岡国際会議場, 2024.03.01
+1. 葛西 璃久, 横山 昌平, "flickrを用いた森林限界の可視化", 第17回データ工学と情報マネジメントに関するフォーラム(DEIM2025), 福岡国際会議場, 2024.02.28
+1. 小町 大翔, 横山 昌平, "SNSデータを活用した地域別人気食ジャンルの推定", 第17回データ工学と情報マネジメントに関するフォーラム(DEIM2025), 福岡国際会議場, 2024.02.27
+1. アハメド アルモハナデ, 横山 昌平, "Automated Method for Analyzing Abnormal Usage and Cultural Variations in Emojis", 福岡国際会議場, 2024.02.27
+1. 伊藤鋼一朗, 横山 昌平, "5G通信網を介した動画像と加速度センサによるスマートフォンペアリング", WebDB夏のワークショップ2024, 淡路島夢舞台国際会議場, 2024.09.12
 1. 織田 大幹（都立大）, 横山 昌平（都立大）, "2台の全天球カメラを用いた同一人物判定", 第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024), アクリエひめじ(兵庫県姫路市), 2024.03.05
 1. 金子 卓矢（都立大）, 横山 昌平（都立大）, "コロナ禍の話題表す俳句生む", 第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024), アクリエひめじ(兵庫県姫路市), 2024.03.04
 1. 添田 英紀（都立大）, 横山 昌平（都立大）, "ニュース記事の拡散速度に着目したソーシャルメディア分析", 第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024), アクリエひめじ(兵庫県姫路市), 2024.03.04
